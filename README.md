@@ -1,6 +1,6 @@
 # Nazwa Twojego Projektu
 
-Krótki opsi
+Krótki opis
 
 ## Spis treści
 
